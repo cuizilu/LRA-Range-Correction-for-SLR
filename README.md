@@ -42,23 +42,6 @@ Typical usage scenarios:
 2. Interpolate the correction value.
 3. Subtract or add this correction to the measured range.
 
-Example correction table row:
-
-| Azimuth (deg) | Elevation (deg) | Wavelength (nm) | Range Correction (mm) |
-|:-------------:|:---------------:|:---------------:|:---------------------:|
-|      45       |        30        |       532       |          +2.35        |
-
-If you need help implementing interpolation, see the example scripts in each folder.
-
----
-
-## 📖 Citation
-
-If you use this dataset or models in your research or publications, please cite:
-
-> **[Your Name]**, *[Title of Your Paper]*, [Journal Name], [Year].  
-> DOI: [Your DOI]
-
 ---
 
 ## 📝 License
